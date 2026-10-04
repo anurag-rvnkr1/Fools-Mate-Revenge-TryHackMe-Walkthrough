@@ -1,14 +1,10 @@
-title: "TryHackMe CTF"
-description: "Professional CTF documentation."
-
+title: "Fool's Mate, Revenge — TryHackMe CTF"
+description: "Portfolio-ready technical walkthrough of Prototype Pollution and authorization-state bypass."
 theme: jekyll-theme-primer
-
 plugins:
   - jekyll-relative-links
-
 relative_links:
   enabled: true
   collections: true
-
 include:
   - docs
